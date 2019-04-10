@@ -1,0 +1,25 @@
+.app-back{
+padding: 50px;
+padding-top: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header-main{
+  margin-bottom: 2em;
+  margin-left: -200px;
+}
+
+.header-imagen{
+  position: relative;
+  z-index: 0;
+  top: -120px;
+  height: 400px;
+}
