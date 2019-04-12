@@ -1,25 +1,41 @@
-.app-back{
-padding: 50px;
-padding-top: 100px;
-display: flex;
-justify-content: center;
-align-items: center;
-text-align: center;
+.app-back {
+  padding: 50px;
+  /* padding-top: 100px; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  text-align: center;
 }
 
-.container{
+.container {
   width: 80%;
   margin: 0 auto;
 }
 
-.header-main{
-  margin-bottom: 2em;
+.header-main {
+  /* margin-bottom: 2em; */
   margin-left: -200px;
 }
 
-.header-imagen{
+.btn- {
+  position: relative;
+  left: 120px;
+  top: 100px;
+}
+
+.header-imagen {
   position: relative;
   z-index: 0;
-  top: -120px;
-  height: 400px;
+  /* top: -200px; */
+  height: 250px;
+  left: 150px;
+}
+.title {
+  position: relative;
+  top: 200px;
+}
+
+.des-card {
+  width: 300px;
+  word-wrap: break-word;
 }
